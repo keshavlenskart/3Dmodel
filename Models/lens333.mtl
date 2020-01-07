@@ -1,0 +1,24 @@
+# Blender MTL File: 'lens222.blend'
+# Material Count: 2
+
+newmtl earMAT
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.000000
+d 1.000000
+map_Kd lens1.jpg
+illum 2
+
+newmtl nose
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.000000
+d 1.000000
+map_Kd lens1.jpg
+illum 2
